@@ -1,0 +1,10 @@
+{
+  "name": "Pocket Plan — Spending Tracker",
+  "short_name": "Pocket Plan",
+  "description": "A simple editable monthly spending plan and expense tracker.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101714",
+  "theme_color": "#101714",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
