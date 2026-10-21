@@ -5,6 +5,7 @@ A small, phone-friendly spending plan and daily expense tracker. It runs as a st
 ## What it does
 
 - Lets you set take-home income, a savings target, bills and essentials, and a monthly flexible-spending limit.
+- Tracks short-term and long-term savings goals, including recurring targets such as saving $3,000 every six months, with progress, suggested monthly contributions, and editable contribution history.
 - Keeps income and monthly plan settings editable separately for each month.
 - Lets you plan with an estimated monthly take-home amount, then log actual paychecks by date without counting the estimate as received money.
 - Adds weekly limits for eating out, going out, and small purchases, with the remaining amount calculated from this week's logged expenses (Monday to Sunday).
