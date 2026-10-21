@@ -6,6 +6,7 @@ A small, phone-friendly spending plan and daily expense tracker. It runs as a st
 
 - Lets you set take-home income, a savings target, bills and essentials, and a monthly flexible-spending limit.
 - Keeps income and monthly plan settings editable separately for each month.
+- Lets you plan with an estimated monthly take-home amount, then log actual paychecks by date without counting the estimate as received money.
 - Adds weekly limits for eating out, going out, and small purchases, with the remaining amount calculated from this week's logged expenses (Monday to Sunday).
 - Tracks dated purchases by category, with edit and delete controls.
 - Includes a separate tab for monthly recurring payments, with due days; active payments count toward monthly spending and the category chart.
